@@ -1,0 +1,9 @@
+{
+  "name": "viana-elliyoun-website",
+  "version": "1.0.0",
+  "description": "Personal website for Viana Elliyoun",
+  "main": "index.html",
+  "scripts": {},
+  "author": "Viana Elliyoun",
+  "license": "ISC"
+}
